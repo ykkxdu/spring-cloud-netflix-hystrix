@@ -25,6 +25,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import rx.functions.Action0;
+/*
+date:   2017-9-27
+fun:    Hystrix具备服务降级，服务熔断，线程和信息隔离，请求缓存，请求合并以及服务监控等强大的功能。
+*/
 
 /**
  * Lifecycle management of Hystrix.
