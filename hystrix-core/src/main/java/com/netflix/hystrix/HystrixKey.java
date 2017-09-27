@@ -1,6 +1,6 @@
 package com.netflix.hystrix;
 /*
- date:2017-9-27
+ date:  2017-9-27
  fun:   1.定义一个Hystrix接口，并定义了一个返回String类型name方法。
         2.使用一个抽象的类实现接口，并实现里面的name方法.
 */
